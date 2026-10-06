@@ -1,0 +1,15 @@
+=== GROCERY RECEIPT SUMMARY ===
+Customer: Catherine Inocencio
+Items Purchased: 7
+Price per Item: $24.50
+VIP Member: true
+-----------------------------------
+Subtotal: $171.50
+Discount Applied: -$17.15
+Final Amount Due: $154.35
+-----------------------------------
+Packaging: 2 box(es) of 3 items, 1 item(s) left over.
+Has leftover unpacked items? true
+Qualifies for Free Express Shipping? true
+
+Exited.
